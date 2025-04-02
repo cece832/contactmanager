@@ -2,6 +2,9 @@
 Project Overview:
 Many people struggle to keep track of professional contacts. This app serves as a central hub for people to store contact information and stay organized with how they know people. For my own purposes, it was a useful way to keep track of professors I’ve had, and contacts at different museums. I could add someone to multiple groups- i.e. my supervisor's info can be stored in both “Potential References” and “Asian Art Museum.” 
 
+Run the app at:
+https://dulcet-cocada-2dd9a8.netlify.app/ 
+
 Initial Prompt and Bolt Response
 
 Initial Prompt to Bolt: 
