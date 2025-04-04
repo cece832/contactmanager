@@ -1,5 +1,10 @@
 📱 Contact Manager
+
+VIDEO: 
+Following the creation of my app, the app crashed and I haven't been able to log in or use the app any longer. I spoke with professor Wolber and showed him the app, and he said it was okay if I couldn't get a full video of it functioning.
+
 Project Overview:
+
 Many people struggle to keep track of professional contacts. This app serves as a central hub for people to store contact information and stay organized with how they know people. For my own purposes, it was a useful way to keep track of professors I’ve had, and contacts at different museums. I could add someone to multiple groups- i.e. my supervisor's info can be stored in both “Potential References” and “Asian Art Museum.” 
 
 Run the app at:
